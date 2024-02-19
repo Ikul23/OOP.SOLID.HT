@@ -1,15 +1,16 @@
-Решение домашнего задания по исправлению кода из пакета homework, согласно принципам SOLID
-Определения и описание:
+# Решение домашнего задания по исправлению кода из пакета homework, согласно принципам SOLID
 
-В настоящем  рефакторинге кода использваны принципы SOLID и добавлен паттерн проектирования MVP (Model-View-Presenter).
+## Определения и описание решения задачи:
+
+В настоящем  рефакторинге кода использованы принципы SOLID и добавлен паттерн проектирования MVP (Model-View-Presenter).
 
 Навигация по проекту:
 
-Папка UserModel: 
+Папка UserModel: https://github.com/Ikul23/OOP.SOLID.HT/tree/main/src/main/java/OOO/SOLID/HT/UserModel
 
-Папка UserPresenter: 
+Папка UserPresenter: https://github.com/Ikul23/OOP.SOLID.HT/tree/main/src/main/java/OOO/SOLID/HT/UserPresenter
 
-Папка UserView: 
+Папка UserView: https://github.com/Ikul23/OOP.SOLID.HT/tree/main/src/main/java/OOO/SOLID/HT/UserView
 
 ## Описание рефакторинга кода в соответствии в принципами SOLID:
 
